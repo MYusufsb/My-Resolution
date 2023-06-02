@@ -1,4 +1,6 @@
 My Resolution
--Menguasai Front End Developer
--Menguasai Back End Developer
+-Menguasai FrontEnd Developer
+-Menguasai BackEnd Developer
 -Mahir berbahasa Inggris
+-Menguasai Python
+-Menguasai Bootstrap
