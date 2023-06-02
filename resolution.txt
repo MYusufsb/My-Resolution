@@ -3,4 +3,3 @@ My Resolution
 -Menguasai BackEnd Developer
 -Mahir berbahasa Inggris
 -Menguasai Python
--Menguasai Bootstrap
